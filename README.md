@@ -8,7 +8,7 @@
 
 3. Realice un programa que lea un número enteros y determine si es par o impar.
 
-4. Realiza un programa que lea dos números realez y determine si el primero es múltiplo del segundo.
+4. Realice un programa que lea dos números reales y determine si el primero es múltiplo del segundo.
 
 5. Realice un programa que lea tres números reales y determine si la suma de los dos primeros es mayor, menor o igual que el tercer número.
 
