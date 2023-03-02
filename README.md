@@ -57,7 +57,7 @@
 	</tr>
   <tr style="text-align: left; vertical-align: middle;" bgcolor="#e4e4ed">
     <td style="color:#141414">Extra</td>
-    <td style="color:#141414">Si adjuntan un vídeito (en youtube) explicando como resolvieron algún punto y el vídeo tiene más de 50 views y 10 likes, se les da algo extra.</td>
+    <td style="color:#141414">Si adjuntan un videito (en youtube) explicando cómo resolvieron algún punto y si el vídeo tiene más de 50 views y 10 likes, se les da algo extra.</td>
 	</tr>
 </table>
 
