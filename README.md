@@ -49,7 +49,7 @@
 	</tr>
   <tr style="text-align: left; vertical-align: middle;" bgcolor="#e4e4ed">
     <td style="color:#141414">Fecha</td>
-    <td style="color:#141414">15/03/2023 Max: 22:00<br>Se creará el canal taller 1 con un archivo de google sheets donde se debe colocar la dirección del repo, si éste tiene un commit posterior al corte, se toma como referencia el mas cercano a la fecha establecida.</td>
+    <td style="color:#141414">24/09/2023 Max: 22:00<br>Se creará el canal taller 1 con un archivo de google sheets donde se debe colocar la dirección del repo, si éste tiene un commit posterior al corte, se toma como referencia el mas cercano a la fecha establecida.</td>
 	</tr>
   <tr style="text-align: left; vertical-align: middle;" bgcolor="#e4e4ed">
     <td style="color:#141414">Forma de trabajo</td>
